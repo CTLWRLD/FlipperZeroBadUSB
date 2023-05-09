@@ -1,10 +1,7 @@
-REM Author: Z3R0NOM1	
-REM Description: Goes to the Genact online mode and fullscreen to make the user think the system has gone crazy.
-REM Version: 0.5
-REM Category: FUN
+
 GUI r
 DELAY 100
-STRING cmd
+STRING https://piv.pivpiv.dk/
 ENTER
 DELAY 100
 STRING start https://svenstaro.github.io/genact/?module=memdump
